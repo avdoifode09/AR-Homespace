@@ -23,8 +23,8 @@ const Header = () => {
       {/* Mobile Menu Icon */}
       <nav>
         <div className="navtop">
-         <div className="logo">
-            <img src="./logo.png" alt="Logo" />
+         <div >
+            <img src="./logo.png" alt="Logo" className="logo" />
           </div> 
           <h3>
           
