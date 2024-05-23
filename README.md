@@ -56,6 +56,7 @@ Thank you for visiting AR HomeSpace! We hope you enjoy your shopping experience.
 <p align="center">
   <img src="src/assets/AR-SS1.png" alt="Screenshot 1 of AR HomeSpace" width="500"/>
   <img src="src/assets/AR-SS2.png" alt="Screenshot 2 of AR HomeSpace" width="500"/>
-  <img src="src/assets/AR-SS3.png" alt="Screenshot 3 of AR HomeSpace" width="500"/>
   <img src="src/assets/AR-SS4.png" alt="Screenshot 4 of AR HomeSpace" width="500" height="769"/>
+  <img src="src/assets/AR-SS3.png" alt="Screenshot 3 of AR HomeSpace" width="500"/>
+  
 </p>
