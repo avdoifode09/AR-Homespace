@@ -14,7 +14,7 @@ const Contact = () => {
        <div><Link to="mailto:atharvadoifode@gmail.com" target="_blank">
            Tanishka Deshpande {"   "}
         </Link></div> 
-        <div><Link to="mailto:atharvadoifode@gmail.com" target="_blank">
+        <div><Link to="mailto:hellosuprita@gmail.com" target="_blank">
           Suprita Thakur
         </Link>
         </div>
