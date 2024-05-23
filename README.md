@@ -51,7 +51,7 @@ We welcome contributions! If you have any ideas, suggestions, or bug fixes, plea
 For any inquiries or support, please contact us at atharvadoifode@gmail.com.
 
 Thank you for visiting AR HomeSpace! We hope you enjoy your shopping experience.
-## Screenshot
+## Screenshots
 
 <p align="center">
   <img src="src/assets/AR-SS1.png" alt="Screenshot 1 of AR HomeSpace" width="500"/>
