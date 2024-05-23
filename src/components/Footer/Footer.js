@@ -39,12 +39,12 @@ function Footer() {
             GitHub
           </Link>
           <Link
-            to="https://www.linkedin.com/in/shwet-khatri-4ab216196/"
+            to="https://www.linkedin.com/in/atharva-doifode-9419b7206/"
             target="_blank"
           >
             LinkedIn
           </Link>
-          <Link to="https://twitter.com/shwetkhatri2001" target="_blank">
+          <Link to="https://twitter.com/av_doifode" target="_blank">
             Twitter
           </Link>
         </div>
