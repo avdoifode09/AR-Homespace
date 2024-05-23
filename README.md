@@ -1,10 +1,10 @@
-# AR HomeSpace
+# AR-Homespace
 
-Welcome to **AR HomeSpace**! This is an e-commerce website dedicated to home decor products. Our unique feature allows you to view our products in Augmented Reality (AR) mode, so you can see how they fit into your space before making a purchase.
+Welcome to **AR-Homespace**! This is an e-commerce website dedicated to home decor products. Our unique feature allows you to view our products in Augmented Reality (AR) mode, so you can see how they fit into your space before making a purchase.
 
 ## Website
 
-Visit the website here: [AR HomeSpace](https://ar-homespace.vercel.app)
+Visit the website here: [AR-Homespace](https://ar-homespace.vercel.app)
 
 ## Features
 
