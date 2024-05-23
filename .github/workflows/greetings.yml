@@ -20,4 +20,4 @@ jobs:
 
           FIRST_PR_MERGED: |
             🎉 @{{ author }}
-            Congrats on merging your first pull request! We appreciate your contribution in AR-Webstore!
+            Congrats on merging your first pull request! We appreciate your contribution in AR-Homespace!
