@@ -7,13 +7,7 @@ const Contact = () => {
       <h1>Let's Connect and Revolutionize E-commerce</h1>
       <h2>
         Reach out to us at our personal mails {" "}
-        {/* <Link
-          to="https://www.linkedin.com/in/shwet-khatri-4ab216196/"
-          target="_blank"
-        >
-          LinkedIn
-        </Link>{" "} */}
-        {/* and{" "} */}
+        
         <div><Link to="mailto:atharvadoifode@gmail.com" target="_blank">
           Atharva Doifode{"   "}  
         </Link></div>
