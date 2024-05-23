@@ -56,3 +56,4 @@ Thank you for visiting AR HomeSpace! We hope you enjoy your shopping experience.
 ![Screenshot 1 of AR HomeSpace](src/assets/AR-SS1.png)
 ![Screenshot 2 of AR HomeSpace](src/assets/AR-SS2.png)
 ![Screenshot 3 of AR HomeSpace](src/assets/AR-SS3.png)
+![Screenshot 4 of AR HomeSpace](src/assets/AR-SS4.png)
