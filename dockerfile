@@ -1,10 +1,10 @@
 FROM node:18
 
-WORKDIR /ar-webstore/
+WORKDIR /ar-homespace/
 
-COPY public/ /ar-webstore/public
-COPY src/ /ar-webstore/src
-COPY package.json /ar-webstore/
+COPY public/ /ar-homespace/public
+COPY src/ /ar-homespace/src
+COPY package.json /ar-homespace/
 
 RUN npm install
 
