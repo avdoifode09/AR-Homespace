@@ -53,7 +53,9 @@ For any inquiries or support, please contact us at atharvadoifode@gmail.com.
 Thank you for visiting AR HomeSpace! We hope you enjoy your shopping experience.
 ## Screenshot
 
-![Screenshot 1 of AR HomeSpace](src/assets/AR-SS1.png)
-![Screenshot 2 of AR HomeSpace](src/assets/AR-SS2.png)
-![Screenshot 3 of AR HomeSpace](src/assets/AR-SS3.png)
-![Screenshot 4 of AR HomeSpace](src/assets/AR-SS4.png)
+<p align="center">
+  <img src="src/assets/AR-SS1.png" alt="Screenshot 1 of AR HomeSpace" width="300"/>
+  <img src="src/assets/AR-SS2.png" alt="Screenshot 2 of AR HomeSpace" width="300"/>
+  <img src="src/assets/AR-SS3.png" alt="Screenshot 3 of AR HomeSpace" width="300"/>
+  <img src="src/assets/AR-SS4.png" alt="Screenshot 4 of AR HomeSpace" width="300"/>
+</p>
